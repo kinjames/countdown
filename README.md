@@ -1,2 +1,2 @@
 # countdown
-A countdown timer to my birthday.
+A countdown timer to Ivy's birthday.
