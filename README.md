@@ -1,2 +1,3 @@
 # countdown
-Countdown to christmas
+Countdown to Christmas
+this was built with javascript and 
